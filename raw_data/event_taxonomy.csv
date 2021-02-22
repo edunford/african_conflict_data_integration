@@ -1,0 +1,35 @@
+data.source,base.categories,Level_1_text,Level_2_text,Level_3_text,Level_4_text
+acled,Non-violent transfer of territory,Territorial Dispute,Nonviolent Possession,Nonviolent Action,Nonviolent Event
+acled,Headquarters or base established,Territorial Dispute,Nonviolent Possession,Nonviolent Action,Nonviolent Event
+acled,Protest,Protest/Demonstration,Nonviolent Displays,Nonviolent Action,Nonviolent Event
+acled,Non-violent activity by a conflict actor,Protest/Demonstration,Nonviolent Displays,Nonviolent Action,Nonviolent Event
+acled,Riot,Violent Protest/Demonstration,Violent Displays,Violent Action,Violent Event
+acled,Battle-Non-state actor overtakes territory,Territorial Dispute,Violent Possession,Violent Attack,Violent Event
+acled,Battle-Government regains territory,Territorial Dispute,Violent Possession,Violent Attack,Violent Event
+acled,Battle-No change of territory,Territorial Dispute,Violent Attack,Violent Attack,Violent Event
+acled,Remote violence,Strategic Destruction,Violent Attack (Bombing),Violent Attack,Violent Event
+acled,Violence against civilians,Atrocity,Violent Attack (Against Civilians),Violent Attack,Violent Event
+acled,Strategic development,Protest/Demonstration,Nonviolent Displays,Nonviolent Action,Nonviolent Event
+ged,1,State-led Violence,Violent Attack,Violent Attack,Violent Event
+ged,2,Opposition-led Violence,Violent Attack (No State),Violent Attack,Violent Event
+ged,3,Atrocity,Violent Attack (Against Civilians),Violent Attack,Violent Event
+gtd,Hijacking,Coercion,Violent Possession,Violent Action,Violent Event
+gtd,Hostage Taking (Barricade Incident),Coercion,Violent Possession,Violent Action,Violent Event
+gtd,Hostage Taking (Kidnapping),Coercion,Violent Possession,Violent Action,Violent Event
+gtd,Bombing/Explosion,Strategic Destruction,Violent Attack (Bombing),Violent Attack,Violent Event
+gtd,Assassination,Strategic Assault,Violent Attack,Violent Attack,Violent Event
+gtd,Armed Assault,Strategic Assault,Violent Attack,Violent Attack,Violent Event
+gtd,Unarmed Assault,Strategic Assault,Violent Attack,Violent Attack,Violent Event
+gtd,Unknown,Strategic Assault,Violent Attack,Violent Attack,Violent Event
+gtd,Facility/Infrastructure Attack,Strategic Destruction,Violent Attack,Violent Attack,Violent Event
+scad,1,Protest/Demonstration,Nonviolent Displays,Nonviolent Action,Nonviolent Event
+scad,2,Protest/Demonstration,Nonviolent Displays,Nonviolent Action,Nonviolent Event
+scad,3,Protest/Demonstration,Nonviolent Displays,Nonviolent Action,Nonviolent Event
+scad,4,Protest/Demonstration,Nonviolent Displays,Nonviolent Action,Nonviolent Event
+scad,5,Violent Protest/Demonstration,Violent Displays,Violent Action,Violent Event
+scad,6,Violent Protest/Demonstration,Violent Displays,Violent Action,Violent Event
+scad,7,State-led Violence,Violent Attack,Violent Attack,Violent Event
+scad,8,Opposition-led Violence,Violent Attack,Violent Attack,Violent Event
+scad,9,Within-Regime Violence,Violent Attack,Violent Attack,Violent Event
+scad,10,Opposition-led Violence,Violent Attack (No State),Violent Attack,Violent Event
+scad,-9,State-led Violence,Violent Attack,Violent Attack,Violent Event
